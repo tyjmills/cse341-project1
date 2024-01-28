@@ -5,7 +5,7 @@
     "title": "REST API",
     "description": ""
   },
-  "host": "https://project1-tnhf.onrender.com",
+  "host": "project1-tnhf.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
